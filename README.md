@@ -4,7 +4,7 @@ A simple daemon to control fan speed on Macs with T2 chip
 # Configuration
 Initial configuration will be done automatically.
 
-For manual config, there's four options for each fan.
+For manual config edit `/etc/t2fand.conf`, there's four options for each fan.
 |        Key        |                            Value                            |
 |:-----------------:|:-----------------------------------------------------------:|
 |      low_temp     |        Temperature that will trigger higher fan speed       |
